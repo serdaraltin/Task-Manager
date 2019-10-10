@@ -1,0 +1,9 @@
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.exe
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.pdb
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.xml
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev_Yöneticisi.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev_Yöneticisi.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev Yöneticisi.vbproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev Yöneticisi.exe
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev Yöneticisi.xml
+c:\users\main\documents\visual studio 2010\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\x86\Debug\Görev Yöneticisi.pdb
